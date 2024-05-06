@@ -1,6 +1,6 @@
 # app.py
 # This is a test commit
-#this is addition method 
+#this is addition method for a and b
 def add(a, b):
     return a + b
 
